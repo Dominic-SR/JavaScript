@@ -31,3 +31,5 @@
 <li>Array Accessing</li>
 <li>Linked List</li>
 </ul>
+
+<h2>JS Top 30 Questions </h2>
