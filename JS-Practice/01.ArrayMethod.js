@@ -4,4 +4,4 @@ let Arr = [1,2,3,4,5]
 console.log("Array Length -->",Arr.length)
 
 // Array to String
-
+console.log("Array to String -->",Arr.toString())
