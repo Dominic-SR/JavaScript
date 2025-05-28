@@ -37,3 +37,8 @@
   <li>01.What is Javascript </li>
   <li>02.Clousiour</li>
 </ul>
+
+<h2>JS Practice </h2>
+<ul>
+  <li>01.Array Length</li>
+</ul>
