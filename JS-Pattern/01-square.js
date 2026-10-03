@@ -1,18 +1,19 @@
+let n=5;
+
 console.log("===============METHOD-1======================");
 
-let n=5;
-for(i=0; i<n; i++){
-    console.log("*".repeat(n));
+for(let row=1;row<=n;row++){
+    let res="";
+    for(let col=1;col<=n;col++){
+        res+= "*";
+    }
+    console.log(res);    
 }
 
 console.log("===============METHOD-2======================");
 
-for(let row=1;row<=n;row++){
-    let data="";
-    for(let col=1;col<=n;col++){
-        data+= "*";
-    }
-    console.log(data);    
+for(i=0; i<n; i++){
+    console.log("*".repeat(n));
 }
 
 console.log("===============METHOD-3======================");
