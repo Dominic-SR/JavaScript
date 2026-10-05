@@ -15,9 +15,3 @@ console.log("===============METHOD-2======================");
 for(let row = 1; row <= n; row++){
     console.log("*".repeat(row));
 }
-
-console.log("===============METHOD-3======================");
-
-for(let row = 1; row <= n; row++){
-    console.log("*".repeat(row));
-}
