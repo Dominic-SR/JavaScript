@@ -18,8 +18,7 @@
 <ul>
 <li>Hallow Square Pattern</li>
 <li>Number Triangular</li>
-<li>Number Increased Pyramid</li>
-<li>Number Increased Reverse Pyramid</li>
+
 </ul>
 <h2>JS - DSA</h2>
 <ul>
